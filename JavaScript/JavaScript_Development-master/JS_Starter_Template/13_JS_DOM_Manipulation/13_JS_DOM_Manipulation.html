@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS DOM Manipulation</title>
+    <style>
+        body{
+            margin: 0;
+            font-family: "Comic Sans MS",sans-serif;
+        }
+        h2{
+            background-color: lightgreen;
+            text-align: center;
+            padding: 10px;
+        }
+        div{
+            background-color: seagreen;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>JS DOM Manipulation</h2>
+    <div>
+        <h1 id="display"></h1>
+    </div>
+
+</body>
+<script>
+
+    //BOM Operations
+          
+    // width of the browser
+          var width = window.innerWidth;
+          console.log("The width of the browser "+width + " px");
+          document.getElementById('display').innerHTML = "The Width of the browser is :" + width + " px " ;
+    // Open a new Tab
+       window.open();
+    // DOM Properties to get body , title , URL
+      var body = document.body;
+      console.log(body);
+      var title = document.title;
+      console.log(title);
+      document.querySelector('#display').innerHTML = title;
+      var url = document.URL;
+      console.log(url);
+     // Dom Manipulation
+     var time = 10;
+     if (time<= 12) {
+        document.querySelector('#display').innerHTML = "Good Morning";
+     }
+     else if(time> 12 && time<= 17){
+        document.querySelector('#display').innerHTML = "Good AfterNoon";
+     }
+     else{
+        document.querySelector('#display').innerHTML = "Good Night";
+     }
+    
+</script>
+</html>

@@ -1,0 +1,187 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<!--  
+HTML 5 Layout Elements
+<header>
+<nav>
+<aside>
+<section>
+<article>
+<footer>
+from html five version w3 consoritom realease the new layout elements such as header,nav,aside,
+section,article,footer
+all the above html elements are used to define the structure of the web page
+with out any styles just by adding the above elements we wont get styles of the web page
+we can apply the styles using css 
+<section "element">: The section element defines a section in a document.
+A home page could normally be split into sections for introduction content, and contact
+information.
+To divided the webpage into different sections we have to use the section tag/element
+------------------------------------------------------------------------------------
+<article>: The article element specifies an independent,self-contained content.
+We normally ue this article tag inside of section tag
+-------------------------------------------------------------------------------------
+<header>: The header element specifies the main header for web page.
+the header element should be used as a container for introductory content
+You Can have several header elements in one webpage.
+-------------------------------------------------------------------------------------
+<footer>:The footer element specififes a main footer for a webpage.
+A footer section typically contains the author of the  document,copyright information,
+link to terms of use, contact information, etc.
+-------------------------------------------------------------------------------------
+<aside>:
+the aside element defines some xontent aside form the content it is 
+placed in  (like a sidebar)
+The aside content should be related to the surrounding content.
+-------------------------------------------------------------------------------------
+<nav>: this element defines a set of main navigation links.
+the Nav elemet is used mostly for top navigation purpose only.
+-------------------------------------------------------------------------------------
+<details>:This tag specifies addtional details that the user can view or hide on 
+demand
+-------------------------------------------------------------------------------------
+<summary>:this tag defines summary of the
+-------------------------------------------------------------------------------------
+<main>: The main tag specfies the main content of a document
+the content inside the main element should be unique to the document and not repeated 
+anywhere in the document
+-->
+
+<!-- 
+CSS Margins:<- to apply the top margin for any html element..
+Note : Here we can specigy the margin in px,cm,em,mm, Inch.
+shortcut property:
+--------------------------------------------------
+We can specify the margin in shortcut by using css property margin.
+Ex: margin:5px 10px 15px 20px;
+             T   R   B    L
+             margin:5px 10px;(TB LR)
+			 margin:5px(TRBL)
+			 
+			 
+CSS padding:the padding indicates some space around the content inside the border 
+the css padding contains the following properties 			 
+padding-top:,padding-right,padding-bottom,padding-left;
+Note:Here We can specify the padding in px,cm,em,mm,Inch.
+shortcut property by using :
+padding:10px 20px 30px 40px;
+CSS Outline:In css outline indicates a kind of border outside the border
+the css outline propertites are exactly same as css border properties the css outline 
+properties are as follows
+outline-width:To specify the style of  an outline for any html element.
+This property contains the following values,
+solid
+dotted
+dashed
+double
+outline-color:specifies the color of outline of any html element in textual color,RGB,HEX,
+HSL,RGBA,HSLA.
+shortcut propery:
+-----------------------------------------------------------------------------------
+outline:2px solid red;
+CSS Textual formats:
+-----------------------------------------------------------------------------------
+By using the css text properties we can apply various text styles for html Content
+The Css text properties are as follows 
+color:to apply a color specific color for html content.
+text-align: to align the text to left, center,right,
+text-decoration:to apply a decoration for the text like overline or underline or none.
+text-transform:This is used to transform the to lowercase,uppercase, or capitalize
+text-indent:to indent some space before the first line of paragraph.
+letter-spacing: to add some space for each letter of a html content.
+line-height:to apply the custom line height for each line of the text.
+direction:to specify the direction of the text either LTR or RTL
+word-space:to apply custom space for each word of the html Content.
+text-shadow: to apply a shadow effect for HTML content
+syntax:text-shadow:3px 2px red;
+
+CSS links:
+The Css links contains the following porperties
+a:link<-normal unvisted link
+a:hover<-a link when the user hover on it
+a:active<-a link the momen it is clicked 
+a:visited<- a link the user has visited
+CSS positions:
+The Css positions property is used to place the html elements in the specified
+position on the webpage we normally use this for css animations 
+the css position property contains the following values 
+static:this is the default position property value for each html element
+any html element with static position then its moment is not affected by top,left,right,bottom
+Relative:This position is opposite to static position the moment of this affected
+by top left right bottom porperties
+for relative position the moments starts as per the edges after browser
+Absolute:This is same as realtive position and also affected and also the momement
+affected by top left right border:properties
+but the momement of absolute position is purely depend on its ancestor
+Fixed:This property is used to fix any html element in the specified position 
+we normally use the pixel position to fix the main navigation bar on top of the webpage
+sticky:any html element with sticy position then its position is depend on 
+the scroll bar
+CSS:Display classes 
+The css display classes are used to change the display nature of html elements
+the html elements are divided into two categeries as per the display nature as follows
+Inline-Elements                     |              Block Elements	 
+span                                |  p
+ a	                                |  div
+input								|  h1 to h6
+img									|   header
+									|
+By using the following display properties we can convert the block level elements to
+inline and vise-versa
+The Css display property contains the following values 
+display-inline:This property is used to convert the block level elements to inline-table
+display-block:This porperty is used to convert the inline elements to block level
+display:inline-block:This property is used to display the HTML elements in a single
+as blocks.
+We normally use this for main navigation to display the links in single as blocks
+display:none
+This is used to hide any specific HTML Elements
+CSS Floats :The Css float porperties are used to float the elements either left or right
+normally the html elements will be display as per the html elements if we want to dispaly
+as a newspaper article we have to use the float propertie to float the images either 
+left or right The Css float property contains
+the following values 
+float:left<-,float:right
+
+CSS3 transitions:
+1 css transitions allows us to change property values smoothly form one value to other
+over a given duration to create the transitions effect we must specify two things
+such as the first the css property that we want to add an effect
+the duration of the effect .The css transition contains the following properties 
+1.transition-name:to specify the name of the transition 
+2.transition-duration:this indicates the duration of the transition effect...
+3.transition-delay:to delay the transition for some time in seconds or milliseconds.
+transtion-timing:This indicates the timing nature of the transition effect.
+This property contains the following values,
+linear <- slow start slow end
+ease-in <- fast start slow end
+ease-out <- slow start fast end
+css 3:animations<- 
+An animation lets an element gradually change from one style to another
+css3 animations allows animation of most html elements without using javascript or flash:
+we can change as many css properties you want as many number of times you want
+To use css3 animation,you must first specify some keyframes for the animation.
+keyframes hold what styles the element will have at certain times.
+The css animation contains the following porperties :
+animation-name:this indicates the name of the animation.
+animation-duration:tis indicates the duration of the animation in second or milliseconds
+animation-itearation-count<- this property is used to weather to repeat the animation
+infinite times or only once 
+animation-timing-function<- this is same as transition-timing values 
+animation-direction:to specify the direction of an animation.
+animation-delay:this is to delay the animation effect for some time in seconds or milliseconds
+
+
+
+									
+-->
+			 
+
+<h1>
+HTML Five Notes
+</h1>
+</body>
+</html>

@@ -1,0 +1,16 @@
+.basic-textarea textarea {
+    height: auto;
+    font-size: 35px;
+}
+.rounded-corners textarea {
+    border-radius: 0.25rem;
+}
+
+.rounded-corners textarea:focus{
+    border: 2px solid #4687f4;
+
+}
+
+.text-teal{
+    color: #00796b;
+}

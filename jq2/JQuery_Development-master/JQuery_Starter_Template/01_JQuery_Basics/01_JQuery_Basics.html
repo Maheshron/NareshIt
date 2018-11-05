@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../bootstrap/css/fontawesome-all.css">
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../bootstrap/css/mdb.css">
+    <link rel="stylesheet" href="../bootstrap/css/style.css">
+    <title>JQuery Basics</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">JQuery Basics</a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</nav>
+
+<div class="container mt-5">
+    <!--########################START HERE#########################-->
+
+    <!-- Inline JQuery -->
+    <!-- To Hide the Below Paragraph -->
+    <p class="lead" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut blanditiis consequatur debitis et, iste iure reiciendis repudiandae sit suscipit ut. Accusantium alias aliquam aliquid aperiam asperiores aut commodi consequuntur corporis cumque ea fugiat mollitia nam numquam, obcaecati officia omnis quibusdam quo quos repellendus repudiandae? Blanditiis, modi, vero? Harum, magnam sit!</p>
+
+
+    <!-- Internal JQuery -->
+    <!-- To Hide the below card -->
+    <div class="card" id="blue-card">
+        <div class="card-body bg-primary text-white text-center">
+            <h3 class="card-title">JQuery</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores corporis eos labore nemo, optio perspiciatis possimus quisquam veniam! Aliquid dolor eius enim explicabo fugiat ipsa, officia quas quibusdam sed voluptas.</p>
+        </div>
+    </div>
+
+    <!-- External JQuery -->
+    <!-- Add a Toggle Effect for the Button with the Card with Document.ready event-->
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-md-6">
+                <input type="button" value="HIDE" class="btn btn-success" id="success-button">
+            </div>
+            <div class="col-md-6">
+                <!-- Empty -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card" id="success-card">
+                    <div class="card-body bg-success text-white text-center">
+                        <h3>External JQuery</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi asperiores cum delectus doloremque, eaque error excepturi expedita facilis incidunt officia quidem sit, vel velit? Consequatur dolorum facere magnam quod voluptatibus.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <!-- Empty -->
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<div style="margin-top:500px;"></div>
+
+
+<!-- BODY ENDS -->
+<script src="../bootstrap/js/fontawesome-all.js"></script>
+<script src="../bootstrap/js/jquery-3.2.1.min.js"></script>
+<script src="../bootstrap/js/popper.min.js"></script>
+<script src="../bootstrap/js/bootstrap.min.js"></script>
+<script src="../bootstrap/js/mdb.min.js"></script>
+<script>
+    // Internal JQuery here
+   
+</script>
+<script src="01_app.js"></script>
+</body>
+</html>

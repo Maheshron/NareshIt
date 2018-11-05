@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="bootstrap/css/fontawesome-all.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap/css/mdb.css">
+    <link rel="stylesheet" href="bootstrap/css/style.css">
+    <title>Navbar in Bootstrap4</title>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-primary">
+    <a class="navbar-brand" href="#">Navbar in Bootstrap4</a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</nav>
+
+<div class="container mt-5">
+    <!--########################START HERE#########################-->
+
+    <!-- SIMPLE NAVBAR -->
+    <h3>SIMPLE NAVBAR</h3>
+     <nav class="navbar navbar-dark bg-primary navbar-expand-sm">
+        <div class="container">
+            <a href="#" class="navbar-barnd">UI BRAINS</a>
+         <div class="collapse navbar-collapse">
+             <ul class="navbar-nav">
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">HOME</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">ABOUT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CONTACT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CAREERS</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">COURSES</a>
+                 </li>
+             </ul>
+         </div>
+        </div> 
+     </nav>
+
+    <br><br>
+
+    <!-- NAVBAR WITH RESPONSIVE TOGGLE -->
+         <h3>RESPONSIVE NAVBAR</h3>
+     <nav class="navbar navbar-dark bg-success navbar-expand-sm">
+        <div class="container">
+            <a href="#" class="navbar-barnd">UI BRAINS</a>
+            <button class="navbar-toggler" data-toggle= "collapse" data-target="#responsiveNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+         <div class="collapse navbar-collapse" id="responsiveNavbar">
+             <ul class="navbar-nav">
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">HOME</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">ABOUT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CONTACT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CAREERS</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">COURSES</a>
+                 </li>
+             </ul>
+         </div>
+        </div> 
+     </nav>
+<br><br>
+
+    <!-- NAVBAR WITH FORM -->
+
+         <h3>FORM NAVBAR</h3>
+     <nav class="navbar navbar-dark bg-teal navbar-expand-sm">
+        <div class="container">
+            <a href="#" class="navbar-barnd">UI BRAINS</a>
+            <button class="navbar-toggler btn btn-ouline-light" data-toggle= "collapse" data-target="#formNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+         <div class="collapse navbar-collapse" id="formNavbar">
+             <ul class="navbar-nav">
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">HOME</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">ABOUT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CONTACT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CAREERS</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">COURSES</a>
+                 </li>
+             </ul>
+             <form class="form-inline ml-auto">
+                 <div class="form-group">
+                     <input type="text" class="form-control" placeholder="Search......">
+                 </div>
+                 <button class="btn btn-outline-success">Search</button>
+             </form>
+         </div>
+        </div> 
+     </nav>
+    <!-- NAVBAR WITH DROPDOWN -->
+       <br><br>
+         <h3>Dropdown NAVBAR</h3>
+     <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
+        <div class="container">
+            <a href="#" class="navbar-barnd">UI BRAINS</a>
+            <button class="navbar-toggler" data-toggle= "collapse" data-target="#dropdownNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+         <div class="collapse navbar-collapse" id="dropdownNavbar">
+             <ul class="navbar-nav">
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">HOME</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">ABOUT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CONTACT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CAREERS</a>
+                 </li>
+                 <li class="nav-item dropdown">
+                     <a href="#" class="nav-link dropdown-toggle"
+                     data-toggle="dropdown">COURSES</a>
+                     <div class="dropdown-menu">
+                         <a href="#" class="dropdown-item">JAVA</a>
+                       <a href="#" class="dropdown-item">PHP</a>
+                       <a href="#" class="dropdown-item">.NET</a>
+                       <a href="#" class="dropdown-item">ANGULAR JS</a>  
+                     </div>
+                 </li>
+             </ul>
+             <form class="form-inline ml-auto">
+                 <div class="form-group">
+                     <input type="text" class="form-control" placeholder="Search......">
+                 </div>
+                 <button class="btn btn-outline-success">Search</button>
+             </form>
+         </div>
+        </div> 
+     </nav>
+<br><br>
+
+    <!-- COLORS -->
+      <h3>SIMPLE NAVBAR</h3>
+     <nav class="navbar navbar-dark bg-dark navbar-expand-sm">
+        <div class="container">
+            <a href="#" class="navbar-barnd">UI BRAINS</a>
+         <div class="collapse navbar-collapse">
+             <ul class="navbar-nav">
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">HOME</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">ABOUT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CONTACT-US</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">CAREERS</a>
+                 </li>
+                 <li class="nav-item">
+                     <a href="#" class="nav-link">COURSES</a>
+                 </li>
+             </ul>
+         </div>
+        </div> 
+     </nav>
+
+
+
+    </div><!-- ./container -->
+    <div style="margin-top:500px;"></div>
+
+<!-- BODY ENDS -->
+<script src="bootstrap/js/fontawesome-all.js"></script>
+<script src="bootstrap/js/jquery-3.2.1.min.js"></script>
+<script src="bootstrap/js/popper.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bootstrap/js/mdb.min.js"></script>
+</body>
+</html>

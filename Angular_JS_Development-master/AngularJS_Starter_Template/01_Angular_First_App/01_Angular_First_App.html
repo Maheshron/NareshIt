@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" np-app="GreetingApp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../bootstrap/css/fontawesome-all.css">
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../bootstrap/css/mdb.css">
+    <link rel="stylesheet" href="../bootstrap/css/style.css">
+
+    <title>AngularJS First App</title>
+</head>
+
+<body ng-controller="GreetAppCtrl">
+<div class="card card-body mt-3 bg-blue">
+    <div class="form-group">
+        <input type="number" class="form-control text-white" placeholder="enter time" ng-model="time" ng-change="greetMsg()">
+
+    </div>
+    <h2>{{ greeting }}</h2>
+</div>
+
+</body>
+<!-- Body Ends -->
+<script src="../bootstrap/js/fontawesome-all.js" ></script>
+<script src="../bootstrap/js/jquery-3.2.1.min.js" ></script>
+<script src="../bootstrap/js/popper.min.js" ></script>
+<script src="../bootstrap/js/bootstrap.min.js" ></script>
+<script src="../bootstrap/js/mdb.min.js" ></script>
+<script src="../angular/angular.js" ></script>
+<script src="01_app.js" ></script>
+</html>

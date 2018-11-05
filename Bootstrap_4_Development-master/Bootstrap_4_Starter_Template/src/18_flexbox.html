@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="bootstrap/css/fontawesome-all.css">
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bootstrap/css/mdb.css">
+    <link rel="stylesheet" href="bootstrap/css/style.css">
+    <title>Flexbox in Bootstrap4</title>
+    <style>
+        .row-hl{
+            background:#D3CFC6;
+            height:250px;
+        }
+
+        .item-hl{
+            border:1px solid #E6681B;
+            background-color: #581845;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Flexbox in Bootstrap4</a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</nav>
+
+<div class="container mt-5">
+    <!--########################START HERE#########################-->
+
+    <!-- FLEX ROW & FLEX ITEMS -->
+    <h3>FLEX ROW & FLEX ITEMS</h3>
+    <div class="row-hl d-flex flex-row">
+        <div class="item-hl p-1 display-4">1</div>
+        <div class="item-hl p-1 display-4">2</div>
+        <div class="item-hl p-1 display-4">3</div>
+    </div>
+
+    <br><br>
+
+    <!-- JUSTIFY CONTENT justify-content-start-->
+    <h3>JUSTIFY CONTENT</h3>
+<div class="row-hl d-flex flex-row justify-content-between">
+        <div class="item-hl p-1 display-4">1</div>
+        <div class="item-hl p-1 display-4">2</div>
+        <div class="item-hl p-1 display-4">3</div>
+    </div>
+    <br><br>
+
+    <!-- FLEX CONTAINER / FLEX COLUMN -->
+    <h3>FLEX CONTAINER / FLEX COLUMN</h3>
+<div class="row-hl d-flex flex-column">
+        <div class="item-hl p-1 display-4">1</div>
+        <div class="item-hl p-1 display-4">2</div>
+        <div class="item-hl p-1 display-4">3</div>
+    </div>
+    <br><br>
+
+    <!-- VERTICAL ALIGN ITEMS align-items-start-->
+    <h3>VERTICAL ALIGN ITEMS</h3>
+    <br><br>
+        <div class="row-hl d-flex flex-column">
+        <div class="item-hl p-1 display-4">1</div>
+        <div class="item-hl p-1 display-4">2</div>
+        <div class="item-hl p-1 display-4">3</div>
+    </div>
+
+    <!-- ALIGN SELF -->
+    <h3>ALIGN SELF</h3>
+    <div class="row-hl d-flex flex row">
+        <div class="item-hl p-4 align-self-start">
+            <h1>FLEX ITEM</h1>
+        </div>
+        <div class="item-hl p-4 align-self-center" >
+            <h1>FLEX ITEM</h1>
+        </div><div class="item-hl p-4 align-self-end" >
+            <h1>FLEX ITEM</h1>
+        </div><div class="item-hl p-4 align-self-baseline">
+            <h1>FLEX ITEM</h1>
+        </div><div class="item-hl p-4 align-self-strech">
+            <h1>FLEX ITEM</h1>
+        </div>
+    </div>
+
+    <br><br>
+
+    <!-- RESPONSIVE ALIGN SELF -->
+    <h3>RESPONSIVE ALIGN SELF</h3>
+           <div class="row-hl d-flex flex row">
+        <div class="item-hl p-4 align-self-md-start">
+            <h1>FLEX ITEM</h1>
+        </div>
+        <div class="item-hl p-4 align-self-md-center" >
+            <h1>FLEX ITEM</h1>
+        </div><div class="item-hl p-4 align-md-self-end" >
+            <h1>FLEX ITEM</h1>
+        </div><div class="item-hl p-4 align-md-self-baseline">
+            <h1>FLEX ITEM</h1>
+        </div><div class="item-hl p-4 align-md-self-strech">
+            <h1>FLEX ITEM</h1>
+        </div>
+    </div>
+  </div>
+
+  <div style="margin-top:500px;"></div>
+
+<!-- BODY ENDS -->
+<script src="bootstrap/js/fontawesome-all.js"></script>
+<script src="bootstrap/js/jquery-3.2.1.min.js"></script>
+<script src="bootstrap/js/popper.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bootstrap/js/mdb.min.js"></script>
+</body>
+</html>

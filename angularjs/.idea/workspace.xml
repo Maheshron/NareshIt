@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c54c5030-286e-4dc2-abc7-d8a574ce32ad" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="14_Angular_Invoice.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_Angular_Invoice.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="119" column="14" lean-forward="true" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>div</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/12_Angular_Number_App/12_Angular_Number_App.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/12_Angular_Number_App/12_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/02_Angular_Ng_Init_Ng_If/02_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/02_Angular_Ng_Init_Ng_If/02_Angular_ng_init_ng_if.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/03_Angular_ng_model/03_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_Angular_ng_app_ng_Controller.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_Angular_The_Clock_App.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/03_Angular_ng_model/03_Angular_ng_model.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/06_Angular_Nested_Controllers/06_Angular_Nested_Controller.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/06_Angular_Nested_Controllers/06_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/07_Angular_Controller_As/07_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/07_Angular_Controller_As/07_Angular_Controller_As.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/08_Angular_Calculator_App/08_Angular_Calculator_App.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/08_Angular_Calculator_App/08_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/09_Angular_ng_show_ng_hide/09_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/09_Angular_ng_show_ng_hide/09_Angular_ng_show_ng_hide.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/10_Angular_ng_repeat/10_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/10_Angular_ng_repeat/10_Angular_ng_repeat.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/11_Angular_Todo_App/11_Angular_Todo_App.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/11_Angular_Todo_App/11_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/13_Angular_Contact_App/13_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/13_Angular_Contact_App/13_Angular_Contact_App.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/01_Angular_First_App/01_app.js" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/01_Angular_First_App/01_Angular_First_App.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_styles.css" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_Angular_Invoice.html" />
+        <option value="$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="391" />
+    <option name="width" value="1377" />
+    <option name="height" value="412" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Angular_First_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Angular_Ng_Init_Ng_If" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="03_Angular_ng_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Angular_The_Clock_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="06_Angular_Nested_Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="07_Angular_Controller_As" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="08_Angular_Calculator_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="09_Angular_ng_show_ng_hide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="10_Angular_ng_repeat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="11_Angular_Todo_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="12_Angular_Number_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="13_Angular_Contact_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="14_Angular_Invoice_App" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angularjs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angularjs" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular_JS_Development-master" type="462c0819:PsiDirectoryNode" />
+              <item name="AngularJS_Starter_Template" type="462c0819:PsiDirectoryNode" />
+              <item name="14_Angular_Invoice_App" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c54c5030-286e-4dc2-abc7-d8a574ce32ad" name="Default" comment="" />
+      <created>1532656367464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532656367464</updated>
+      <workItem from="1532656369352" duration="1851000" />
+      <workItem from="1532742354685" duration="5795000" />
+      <workItem from="1532917198027" duration="506000" />
+      <workItem from="1533001556947" duration="4584000" />
+      <workItem from="1533087800999" duration="6273000" />
+      <workItem from="1533174296612" duration="4051000" />
+      <workItem from="1533260705915" duration="4501000" />
+      <workItem from="1533374923435" duration="987000" />
+      <workItem from="1533375991330" duration="1115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29663000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.01830161" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_Angular_ng_app_ng_Controller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="83" lean-forward="false" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_Angular_The_Clock_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/06_Angular_Nested_Controllers/06_Angular_Nested_Controller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/02_Angular_Ng_Init_Ng_If/02_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/03_Angular_ng_model/03_Angular_ng_model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/12_Angular_Number_App/12_Angular_Number_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/02_Angular_Ng_Init_Ng_If/02_Angular_ng_init_ng_if.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/03_Angular_ng_model/03_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_Angular_ng_app_ng_Controller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="83" lean-forward="false" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_Angular_The_Clock_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/06_Angular_Nested_Controllers/06_Angular_Nested_Controller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/02_Angular_Ng_Init_Ng_If/02_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/03_Angular_ng_model/03_Angular_ng_model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" column="24" lean-forward="true" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/12_Angular_Number_App/12_Angular_Number_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/12_Angular_Number_App/12_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/12_Angular_Number_App/12_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/12_Angular_Number_App/12_Angular_Number_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_Angular_ng_app_ng_Controller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="83" lean-forward="false" selection-start-line="35" selection-start-column="83" selection-end-line="35" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/04_Angular_ng_app_ng_Controller/04_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_Angular_The_Clock_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/05_Angular_The_Clock_App/05_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/03_Angular_ng_model/03_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/03_Angular_ng_model/03_Angular_ng_model.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/06_Angular_Nested_Controllers/06_Angular_Nested_Controller.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="32" column="34" lean-forward="true" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/06_Angular_Nested_Controllers/06_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/07_Angular_Controller_As/07_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/07_Angular_Controller_As/07_Angular_Controller_As.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="100" lean-forward="false" selection-start-line="30" selection-start-column="100" selection-end-line="30" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/08_Angular_Calculator_App/08_Angular_Calculator_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/08_Angular_Calculator_App/08_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/09_Angular_ng_show_ng_hide/09_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/09_Angular_ng_show_ng_hide/09_Angular_ng_show_ng_hide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/10_Angular_ng_repeat/10_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/10_Angular_ng_repeat/10_Angular_ng_repeat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/11_Angular_Todo_App/11_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/11_Angular_Todo_App/11_Angular_Todo_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="36" lean-forward="false" selection-start-line="82" selection-start-column="33" selection-end-line="82" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/02_Angular_Ng_Init_Ng_If/02_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/02_Angular_Ng_Init_Ng_If/02_Angular_ng_init_ng_if.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/13_Angular_Contact_App/13_Angular_Contact_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/13_Angular_Contact_App/13_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/img/uibrains.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/img/signature.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/01_Angular_First_App/01_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/01_Angular_First_App/01_Angular_First_App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="116" lean-forward="false" selection-start-line="18" selection-start-column="116" selection-end-line="18" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/13_Angular_Contact_App/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="407" column="28" lean-forward="false" selection-start-line="407" selection-start-column="28" selection-end-line="407" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_JS_Development-master/AngularJS_Starter_Template/14_Angular_Invoice_App/14_Angular_Invoice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="119" column="14" lean-forward="true" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

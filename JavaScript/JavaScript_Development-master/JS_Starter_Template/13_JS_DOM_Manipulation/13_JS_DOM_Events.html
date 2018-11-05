@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JS Dom Events </title>
+	<style>
+		h2{
+
+		}
+		body{
+			font-family: "Comic Sans MS ",sans-serif;
+		}
+		div{
+			background-color: lightgreen;
+			padding:10px;
+			width: 400px;
+		}
+		input{
+			border:2px solid gray;
+			margin:5px;
+			padding:12px;
+		}
+		#results-div{
+			background-color: orange;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h2>JS Event Handling </h2>
+<div>
+	<form>
+		<label>UserName</label>
+		<input type="text" name="username">
+		<br>
+		<label>Password</label>
+		<input type="password " name="password">
+         <br>
+		<button  type="button" onclick="getValues()"> Get Values </button>
+	</form>
+</div>
+<h2>Java Script Event Handling </h2>
+<div>
+	<form>
+		<label> Enter Text</label>
+		<input type="text" id="userInput">
+	</form>
+</div>
+<div id="results-div">
+	<h1 id="userInputText">
+		
+	</h1>
+	
+</div>
+<script>
+	function getValues(){
+	var username = document.querySelector('#username').value;
+	var password = document.querySelector('#password').value;
+	if(username === 'mahesh' && password === 'password'){
+		document.querySelector('#username').style.borderColor = 'green';
+		document.querySelector('#password').style.borderColor ='green';
+	}
+	else{
+		document.querySelector('#username').style.borderColor = 'red';
+		document.querySelector('#password').style.borderColor = 'red';
+	}
+	}
+	//Event Lisners
+	// Get the Element
+	var userInput = document.querySelector('#userInput');
+	// Hookup an event
+	userInput.addEventListener('keyup',display());
+	// write function logic
+	function display(){
+		var userValue = userInput.value;
+		document.querySelector('#userInputText').innerHTML = userValue;
+	}
+	if (userValue==='mahesh') {
+		userInput.style.borderColor = 'green';
+	}
+	else{
+		userInput.style.borderColor = 'red';
+	}
+</script>
+</body>
+</html>
